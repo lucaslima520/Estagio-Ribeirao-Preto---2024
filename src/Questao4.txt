@@ -1,0 +1,3 @@
+É necessário deixar dois do interruptores acessos e tentar identificar a sala que a luz não está acesa logo de primeira tentaitva, já identificantido a primeira a sala a seu interruptor. 
+Em seguida desligar um dos interruptores ligados e seguir para a próxima sala utiliazando da segunda tentaitva.
+Deste modo caso a lâmpada da segunda sala esteja acesa será referetne ao interruptor aceso do contrário será o interruptor desligado.
